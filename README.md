@@ -12,10 +12,10 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 | 1 | 토스 | `companies/toss` | 공개 문서 | 완료 |
 | 2 | 당근 | `companies/daangn` | 공개 문서·오픈소스 | 완료 |
 | 3 | 원티드 | `companies/wanted` | 공개 문서 | 완료 |
-| 4 | 채널톡 | `companies/channeltalk` | 오픈소스 | 준비 중 |
-| 5 | LINE | `companies/line` | 공개 문서 | 준비 중 |
-| 6 | 삼성 One UI | `companies/samsung-oneui` | 공개 문서 | 준비 중 |
-| 7 | KRDS(정부) | `companies/krds` | 공개 문서 | 준비 중 |
+| 4 | 채널톡 | `companies/channeltalk` | 오픈소스 | 완료 |
+| 5 | LINE | `companies/line` | 공개 문서 | 완료 |
+| 6 | 삼성 One UI | `companies/samsung-oneui` | 공개 문서 | 완료 |
+| 7 | KRDS(정부) | `companies/krds` | 공개 문서 | 완료 |
 | 8 | 배달의민족 | `companies/baemin` | 실측 | 준비 중 |
 | 9 | 카카오 | `companies/kakao` | 실측 | 준비 중 |
 | 10 | 네이버 | `companies/naver` | 실측 | 준비 중 |
