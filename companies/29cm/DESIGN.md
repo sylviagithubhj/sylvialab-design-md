@@ -63,7 +63,7 @@
 | success·warning·error | 확인 필요 | 캡처에 없음 |
 
 ## 3. 타이포그래피
-- 글꼴: 시스템 산세리프로 보임(추정. 한글은 Apple SD Gothic Neo와 같은 모양). Ruler 테마에 글꼴 토큰이 있다는 사실만 블로그로 확인했다.
+- 글꼴: 시스템 산세리프(추정. 한글은 Apple SD Gothic Neo와 같은 모양). Ruler 테마에 글꼴 토큰이 있다는 사실만 블로그로 확인했다.
 - 로고: 자간을 넓게 띄운 영문 대문자 워드마크 "29CM".
 - 대체 글꼴: -apple-system, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif
 - 크기는 1배율 캡처의 글자 높이로 계산한 추정값이다(±1pt). 행간은 확인 필요.
