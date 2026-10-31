@@ -25,7 +25,7 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 | 14 | 야놀자·놀 | `companies/yanolja` | 실측 | 완료 |
 | 15 | 오늘의집 | `companies/ohou` | 실측 | 완료 |
 | 16 | 직방 | `companies/zigbang` | 공개 문서·실측 | 완료 |
-| 17 | 업비트 | `companies/upbit` | 실측 | 초안 · 값 일부 비어 있음 |
+| 17 | 업비트 | `companies/upbit` | 앱 캡처 실측(다크 모드) | 완료 · 라이트 모드·주문 화면 확인 필요 |
 | 18 | 뱅크샐러드 | `companies/banksalad` | 실측 | 초안 · 값 일부 비어 있음 |
 | 19 | 리디 | `companies/ridi` | 공개 문서 | 완료 |
 | 20 | 29CM | `companies/29cm` | 실측 | 초안 · 값 일부 비어 있음 |
