@@ -13,20 +13,20 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 | 2 | 당근 | `companies/daangn` | 공개 문서·오픈소스 | 완료 |
 | 3 | 원티드 | `companies/wanted` | 공개 문서 | 완료 |
 | 4 | 채널톡 | `companies/channeltalk` | 오픈소스 | 완료 |
-| 5 | LINE | `companies/line` | 공개 문서 | 완료 |
+| 5 | LINE | `companies/line` | 공개 문서 + 앱스토어 이미지 6장(추정) | 완료 |
 | 6 | 삼성 One UI | `companies/samsung-oneui` | 공개 문서 | 완료 |
 | 7 | KRDS(정부) | `companies/krds` | 공개 문서 | 완료 |
 | 8 | 배달의민족 | `companies/baemin` | 실측·공식 글꼴 문서 | 완료 |
 | 9 | 카카오 | `companies/kakao` | 공개 문서·실측 | 완료 |
 | 10 | 네이버 | `companies/naver` | 브랜드 문서·실측 | 완료 |
-| 11 | 쿠팡 | `companies/coupang` | 실측 | 완료 |
+| 11 | 쿠팡 | `companies/coupang` | 실측 + 앱스토어 이미지 10장(추정) | 완료 |
 | 12 | 무신사 | `companies/musinsa` | 실측(웹)·앱 캡처 | 완료 |
 | 13 | 컬리 | `companies/kurly` | 실측 | 완료 |
 | 14 | 야놀자·놀 | `companies/yanolja` | 실측 | 완료 |
 | 15 | 오늘의집 | `companies/ohou` | 실측(웹)·앱 캡처 | 완료 |
 | 16 | 직방 | `companies/zigbang` | 공개 문서·실측 | 완료 |
 | 17 | 업비트 | `companies/upbit` | 앱 캡처 실측(다크 모드) | 완료 · 종목 상세·주문 화면 확인 필요 |
-| 18 | 뱅크샐러드 | `companies/banksalad` | 실측 | 초안 · 값 일부 비어 있음 |
+| 18 | 뱅크샐러드 | `companies/banksalad` | 실측 + 앱스토어 이미지 6장(추정) | 완료 · 글꼴·크기 확인 필요 |
 | 19 | 리디 | `companies/ridi` | 공개 문서 | 완료 |
 | 20 | 29CM | `companies/29cm` | 앱 캡처 실측·기술 블로그 | 완료 · 상세·장바구니 화면 확인 필요 |
 
@@ -46,11 +46,11 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 | + | 카카오메이커스 | `companies/kakaomakers` | 앱 캡처 10장 | 완료 · 일부 화면 확인 필요 |
 | + | 화해 | `companies/hwahae` | 앱 캡처 5장 | 완료 · 일부 화면 확인 필요 |
 | + | 예스24 | `companies/yes24` | 앱 캡처 2장 | 완료 · 근거 적음, 확인 필요 많음 |
-| + | KREAM | `companies/kream` | 앱 캡처 2장 | 완료 · 근거 적음, 확인 필요 많음 |
-| + | SPAO | `companies/spao` | 앱 캡처 1장 | 완료 · 근거 적음, 확인 필요 많음 |
-| + | 온더룩 | `companies/onthelook` | 앱 캡처 1장 | 완료 · 근거 적음, 확인 필요 많음 |
-| + | W컨셉 | `companies/wconcept` | 앱 캡처 1장 | 완료 · 근거 적음, 확인 필요 많음 |
-| + | 하이버 | `companies/hiver` | 앱 캡처 1장 | 완료 · 근거 적음, 확인 필요 많음 |
+| + | KREAM | `companies/kream` | 앱 캡처 2장 + 앱스토어 이미지 8장(추정) | 완료 · 일부 확인 필요 |
+| + | SPAO | `companies/spao` | 앱 캡처 1장 + 앱스토어 이미지 4장(추정) | 완료 · 주 버튼 확인 필요 |
+| + | 온더룩 | `companies/onthelook` | 앱 캡처 1장 + 공개 앱 소개 이미지 3장(추정) | 완료 · 주 버튼 확인 필요 |
+| + | W컨셉 | `companies/wconcept` | 앱 캡처 6장(실측 2026-11-01) | 완료 |
+| + | 하이버 | `companies/hiver` | 앱 캡처 1장 + 앱스토어 이미지 5장(추정) | 완료 · 일부 확인 필요 |
 | + | 아모레몰 | `companies/amoremall` | 앱 캡처 1장 | 완료 · 근거 적음, 확인 필요 많음 |
 | + | 아파트멘터리 | `companies/apartmentary` | 모바일 웹 캡처 5장 | 완료 · 일부 화면 확인 필요 |
 
