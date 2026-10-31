@@ -16,19 +16,19 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 | 5 | LINE | `companies/line` | 공개 문서 | 완료 |
 | 6 | 삼성 One UI | `companies/samsung-oneui` | 공개 문서 | 완료 |
 | 7 | KRDS(정부) | `companies/krds` | 공개 문서 | 완료 |
-| 8 | 배달의민족 | `companies/baemin` | 실측 | 준비 중 |
-| 9 | 카카오 | `companies/kakao` | 실측 | 준비 중 |
-| 10 | 네이버 | `companies/naver` | 실측 | 준비 중 |
-| 11 | 쿠팡 | `companies/coupang` | 실측 | 준비 중 |
-| 12 | 무신사 | `companies/musinsa` | 실측 | 준비 중 |
-| 13 | 컬리 | `companies/kurly` | 실측 | 준비 중 |
-| 14 | 야놀자·놀 | `companies/yanolja` | 실측 | 준비 중 |
-| 15 | 오늘의집 | `companies/ohou` | 실측 | 준비 중 |
-| 16 | 직방 | `companies/zigbang` | 실측 | 준비 중 |
-| 17 | 업비트 | `companies/upbit` | 실측 | 준비 중 |
-| 18 | 뱅크샐러드 | `companies/banksalad` | 실측 | 준비 중 |
-| 19 | 리디 | `companies/ridi` | 실측 | 준비 중 |
-| 20 | 29CM | `companies/29cm` | 실측 | 준비 중 |
+| 8 | 배달의민족 | `companies/baemin` | 실측·공식 글꼴 문서 | 완료 |
+| 9 | 카카오 | `companies/kakao` | 공개 문서·실측 | 완료 |
+| 10 | 네이버 | `companies/naver` | 브랜드 문서·실측 | 완료 |
+| 11 | 쿠팡 | `companies/coupang` | 실측 | 완료 |
+| 12 | 무신사 | `companies/musinsa` | 실측 | 완료 |
+| 13 | 컬리 | `companies/kurly` | 실측 | 완료 |
+| 14 | 야놀자·놀 | `companies/yanolja` | 실측 | 완료 |
+| 15 | 오늘의집 | `companies/ohou` | 실측 | 완료 |
+| 16 | 직방 | `companies/zigbang` | 공개 문서·실측 | 완료 |
+| 17 | 업비트 | `companies/upbit` | 실측 | 초안 · 값 일부 비어 있음 |
+| 18 | 뱅크샐러드 | `companies/banksalad` | 실측 | 초안 · 값 일부 비어 있음 |
+| 19 | 리디 | `companies/ridi` | 공개 문서 | 완료 |
+| 20 | 29CM | `companies/29cm` | 실측 | 초안 · 값 일부 비어 있음 |
 
 - **공개 문서·오픈소스:** 회사가 직접 공개한 디자인 시스템 문서나 코드를 근거로 썼습니다.
 - **실측:** 공개된 시스템이 없어서 웹·앱 화면에서 색, 글꼴, 간격을 직접 재서 썼습니다. 실제 내부 기준과 다를 수 있습니다.
