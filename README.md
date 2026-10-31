@@ -9,9 +9,9 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 
 | # | 서비스 | 폴더 | 근거 | 상태 |
 |---|---|---|---|---|
-| 1 | 토스 | `companies/toss` | 공개 문서 | 준비 중 |
-| 2 | 당근 | `companies/daangn` | 공개 문서·오픈소스 | 준비 중 |
-| 3 | 원티드 | `companies/wanted` | 공개 문서 | 준비 중 |
+| 1 | 토스 | `companies/toss` | 공개 문서 | 완료 |
+| 2 | 당근 | `companies/daangn` | 공개 문서·오픈소스 | 완료 |
+| 3 | 원티드 | `companies/wanted` | 공개 문서 | 완료 |
 | 4 | 채널톡 | `companies/channeltalk` | 오픈소스 | 준비 중 |
 | 5 | LINE | `companies/line` | 공개 문서 | 준비 중 |
 | 6 | 삼성 One UI | `companies/samsung-oneui` | 공개 문서 | 준비 중 |
@@ -45,7 +45,11 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 
 ## 라이선스
 
-(정해지면 적습니다.)
+[CC BY 4.0](LICENSE). 누구나 자유롭게 쓰고 고쳐도 되지만, 다시 쓸 때 출처를 남겨 주세요.
+
+> 출처: SylviaLab DESIGN.md (https://github.com/sylviagithubhj/sylvialab-design-md), CC BY 4.0
+
+서비스 이름, 로고, 글꼴, 브랜드는 각 권리자의 것이라 이 라이선스에 들어가지 않아요.
 
 ---
 © SylviaLab
