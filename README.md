@@ -45,7 +45,11 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 
 ## 라이선스
 
-(정해지면 적습니다.)
+[CC BY 4.0](LICENSE). 누구나 자유롭게 쓰고 고쳐도 되지만, 다시 쓸 때 출처를 남겨 주세요.
+
+> 출처: SylviaLab DESIGN.md (https://github.com/sylviagithubhj/sylvialab-design-md), CC BY 4.0
+
+서비스 이름, 로고, 글꼴, 브랜드는 각 권리자의 것이라 이 라이선스에 들어가지 않아요.
 
 ---
 © SylviaLab
