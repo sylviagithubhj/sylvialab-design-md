@@ -190,9 +190,9 @@
 | radius-xSmall | 2px | 아주 작은 표시 |
 | radius-small | 4px | 체크박스, 인라인 배지 |
 | radius-medium | 8px | 버튼 small·medium |
-| radius-large | 12px | 버튼 large, 칩, 세그먼트 컨트롤, 앱 다운로드 버튼(실측) |
-| radius-xLarge | 16px | 큰 카드 |
-| radius-xxLarge | 20px | 시트 위 모서리 등 [쓰임은 확인 필요] |
+| radius-large | 12px | 버튼 large, 칩, 세그먼트 컨트롤, 152×54px 흰 버튼(실측) |
+| radius-xLarge | 16px | 안내 페이지 1곳, 쓰임 확인 필요 |
+| radius-xxLarge | 20px | 쓰임 확인 필요 |
 | radius-rounded | 9999px | 아이콘 버튼, 알약형 링크 버튼 |
 | shadow-level1 | 0 2px 8px rgba(0,0,0,.06) | 약한 띄움 |
 | shadow-level2 | 0 2px 8px rgba(0,0,0,.12) | 카드 띄움 |
@@ -218,7 +218,7 @@
 - 상태: hover는 rgba(0,0,0,.04), 눌림은 rgba(0,0,0,.08)을 위에 겹친다. 검정 버튼은 흰색 겹침(hover .04, 눌림 .1).
 - 포커스: 민트 버튼은 rgba(0,0,0,.38) 테두리, 검정·회색 버튼은 #00c9b9 테두리.
 - 글자: 크기별 labelSmall/Medium/Large Emphasized(700).
-- 안내 페이지 실측: 알약형 검정 링크 버튼 228×58px, 패딩 16px 32px, 18px/700, 모서리 9999px. 앱 스토어 버튼 152×54px, 흰 바탕, 모서리 12px, 패딩 14px 19px.
+- 안내 페이지 실측: 알약형 검정 링크 버튼 228×58px, 패딩 16px 32px, 18px/700, 모서리 9999px. 흰 버튼 152×54px(앱 내려받기 버튼으로 보임), 흰 바탕, 모서리 12px, 패딩 14px 19px.
 
 ### 입력창
 - 검색창(searchField): 채움 rgba(0,0,51,.04), 테두리 없음, placeholder rgba(24,26,28,.56), 커서 #00c9b9, 아이콘·글자 간격 6px.
