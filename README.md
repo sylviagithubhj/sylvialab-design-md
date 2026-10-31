@@ -9,9 +9,9 @@ Claude, Figma MCP 같은 AI 도구에 그대로 넣어 "이 서비스 느낌으�
 
 | # | 서비스 | 폴더 | 근거 | 상태 |
 |---|---|---|---|---|
-| 1 | 토스 | `companies/toss` | 공개 문서 | 준비 중 |
-| 2 | 당근 | `companies/daangn` | 공개 문서·오픈소스 | 준비 중 |
-| 3 | 원티드 | `companies/wanted` | 공개 문서 | 준비 중 |
+| 1 | 토스 | `companies/toss` | 공개 문서 | 완료 |
+| 2 | 당근 | `companies/daangn` | 공개 문서·오픈소스 | 완료 |
+| 3 | 원티드 | `companies/wanted` | 공개 문서 | 완료 |
 | 4 | 채널톡 | `companies/channeltalk` | 오픈소스 | 준비 중 |
 | 5 | LINE | `companies/line` | 공개 문서 | 준비 중 |
 | 6 | 삼성 One UI | `companies/samsung-oneui` | 공개 문서 | 준비 중 |
