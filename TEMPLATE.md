@@ -4,6 +4,8 @@ name: "{서비스 이름}"
 description: "{디자인 인상 한 줄}"
 source: "{공개 문서 | 관찰(앱 캡처) | 관찰(웹 computed style)}"
 updated: "YYYY-MM-DD"
+license: "CC BY 4.0"
+attribution: "SylviaLab DESIGN.md (https://github.com/sylviagithubhj/sylvialab-design-md) · CC BY 4.0"
 
 colors:
   primary: "#000000"
@@ -50,6 +52,7 @@ components:
 
 > 근거: {공개 문서 기반 | 관찰 기반 (실측일, 기기·화면)}
 > 작성: SylviaLab · 최종 수정 YYYY-MM-DD
+> 라이선스: CC BY 4.0 · 다시 쓰거나 고쳐 쓸 때 출처를 꼭 남겨 주세요 → SylviaLab DESIGN.md (https://github.com/sylviagithubhj/sylvialab-design-md)
 
 이 문서는 디자인 시스템의 다섯 층(원칙, 토큰, 컴포넌트, 사용 규칙, 구현·검증)을 한 파일로 줄인 요약이다. 맨 위 YAML은 도구와 AI가 그대로 읽는 값이고, 아래 글은 그 값을 언제·왜 쓰는지 설명한다.
 
