@@ -2,7 +2,7 @@
 
 > 근거: 관찰 기반 (모바일 웹 캡처: 킨포크 "Case Study Room" 콘텐츠 페이지를 휴대폰 브라우저로 본 화면 5장, 약 466px 폭 이미지에서 픽셀 측정. 원래 기기 폭은 확인 필요, 이미지 1px ≈ CSS 1px로 봄. 실측일 2026-10-31)
 > 작성: SylviaLab · 최종 수정 2026-10-31
-> 라이선스: CC BY 4.0 · 다시 쓰거나 고쳐 쓸 때 출처를 꼭 남겨 주세요 → SylviaLab DESIGN.md (https://github.com/sylviagithubhj/sylvialab-design-md)
+> 라이선스: CC BY 4.0 · 다시 쓰거나 고쳐 쓸 때 출처를 꼭 남겨 주세요 → sylvialab.kr · SylviaLab DESIGN.md (https://sylvialab.kr/design-md/)
 
 ## 1. 개요
 - 서비스 성격: 라이프스타일 잡지 킨포크의 브랜드 웹사이트. 이번 캡처는 그 안의 "Case Study Room"(가구·사진 전시 공간을 소개하는 콘텐츠) 페이지다. 글은 영문이다.

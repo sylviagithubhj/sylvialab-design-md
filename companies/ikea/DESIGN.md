@@ -2,7 +2,7 @@
 
 > 근거: 관찰 기반 (앱 캡처: 2024년 11월 25일 iOS 이케아 앱 홈 화면 3장(같은 화면을 위·가운데·아래로 나눠 찍은 것), 375pt 폭 1배율 이미지에서 픽셀 측정. 실측일 2026-10-31)
 > 작성: SylviaLab · 최종 수정 2026-10-31
-> 라이선스: CC BY 4.0 · 다시 쓰거나 고쳐 쓸 때 출처를 꼭 남겨 주세요 → SylviaLab DESIGN.md (https://github.com/sylviagithubhj/sylvialab-design-md)
+> 라이선스: CC BY 4.0 · 다시 쓰거나 고쳐 쓸 때 출처를 꼭 남겨 주세요 → sylvialab.kr · SylviaLab DESIGN.md (https://sylvialab.kr/design-md/)
 
 ## 1. 개요
 - 서비스 성격: 가구·홈퍼니싱 브랜드 이케아의 쇼핑 앱. 홈에서 신제품 소식, 공간별 아이디어, 내 공간을 꾸며 보는 기능(IKEA Kreativ)을 보여 주고, 하단 탭으로 검색·매장·위시리스트·장바구니로 간다.
